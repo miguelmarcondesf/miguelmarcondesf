@@ -40,3 +40,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 ---
 
 💡 *"The best way to predict the future is to create it."*
+
+Made with :love: by Nohaim

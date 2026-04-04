@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Miguel Marcondes
+# Hi there! 👋 I'm Miguel Marcondes @ codeminer42
 
 ## 🚀 About Me
 I'm a software developer passionate about **open source** and building impactful solutions. I believe in the power of collaboration and contributing to the developer community.
